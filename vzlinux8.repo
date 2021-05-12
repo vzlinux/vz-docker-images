@@ -1,0 +1,13 @@
+[vzl8]
+name=VzLinux8
+baseurl=http://repo.virtuozzo.com/vzlinux/8/x86_64/os/
+enabled=1
+gpgcheck=0
+priority=50
+
+[vzl8-updates]
+name=VzLinux8Updates
+baseurl=http://repo.virtuozzo.com/vzlinux/8/x86_64/updates
+enabled=1
+gpgcheck=0
+priority=49
